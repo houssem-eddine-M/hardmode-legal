@@ -6,7 +6,7 @@ This Privacy Policy explains how the HardMode mobile application ("HardMode", "t
 
 ## Who we are
 
-HardMode is developed and operated by an independent developer based in Tunisia. For any privacy question or request, contact us at **[your-email@example.com]**.
+HardMode is developed and operated by an independent developer based in Tunisia. For any privacy question or request, contact us at [houssemeddinemachhout2@gmail.com}.
 
 ## What we collect
 
@@ -41,7 +41,7 @@ The app sends local reminder notifications before your habit deadlines. You can 
 
 ## Deleting your data
 
-You can permanently delete your account and all associated data at any time from within the app: **Settings → Delete account**. This removes your habits, streaks, and history from our server and cannot be undone. Alternatively, email us at **[your-email@example.com]** and we will delete your data on request.
+You can permanently delete your account and all associated data at any time from within the app: **Settings → Delete account**. This removes your habits, streaks, and history from our server and cannot be undone. Alternatively, email us at [houssemeddinemachhout2@gmail.com] and we will delete your data on request.
 
 ## Children
 
@@ -53,4 +53,4 @@ We may update this policy as the app evolves. Material changes will be reflected
 
 ## Contact
 
-Questions about this policy or your data: **[your-email@example.com]**
+Questions about this policy or your data: [houssemeddinemachhout2@gmail.com] 
